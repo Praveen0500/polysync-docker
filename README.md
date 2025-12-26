@@ -35,3 +35,20 @@ It automates speech transcription, translation, text-to-speech synthesis, and li
 
 ## 📂 Project Structure
 <img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/674bec4b-fac1-4fac-a380-b80998bc169b" />
+
+## 📥 Input
+- Input should be a video file (`.mp4`)
+- Place the video inside the `input/` directory
+- Sample file: `sample_input.mp4` (5–10 seconds)
+  
+## 📤 Output
+- The localized output video will be generated in the `output/` directory
+- Output format: `.mp4`
+- The video contains translated speech with lip synchronization
+
+## 📈 Applications
+
+- Multilingual video dubbing
+- Online education platforms
+- Media localization
+- Research and academic use
