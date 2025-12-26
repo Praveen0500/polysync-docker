@@ -52,3 +52,20 @@ It automates speech transcription, translation, text-to-speech synthesis, and li
 - Online education platforms
 - Media localization
 - Research and academic use
+
+## 📊 Results
+- Successfully generated multilingual dubbed videos from input video files
+- Accurate speech transcription and translation across supported languages
+- Natural-sounding synthesized speech using neural TTS
+- Effective lip synchronization preserving speaker facial movements
+- End-to-end pipeline executed smoothly using Docker containers
+
+---
+
+## 🌍 Impact
+- Reduces manual effort and cost involved in video dubbing
+- Enables faster localization of educational and media content
+- Improves accessibility for non-native language audiences
+- Demonstrates practical application of AI in multimedia processing
+- Useful for academic research and real-world multilingual systems
+
